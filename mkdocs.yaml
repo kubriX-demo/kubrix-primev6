@@ -1,0 +1,8 @@
+site_name: "primev6"
+site_description: "Documentation for primev6"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
